@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Annine Duclaire Kenne
 - 👀 I’m interested in  Machine Learning, Deep Learning and Artificial Intelligence, Climate change.
 - 🌱
-- 💞️ I’m looking to collaborate on ML/DL and Data science projects with Senior Scientist from every where of the world.
+- 💞️ I’m looking to collaborate on ML/DL and Data science projects with Senior Scientists/Researchers from every where of the globe.
 - 📫 
 
 <!---
